@@ -2,11 +2,11 @@ package comment;
 
 public class Kouhan{
     public static void callDeae(){
-        System.out.println("eei,kosyakuna. kusemonoda! deaei!");
+        System.out.println("ええい、こしゃくな。くせものだ！であえい！");
     }
     public static void showMondokoro(){
-        System.out.println("hisyasain,kakusan. mouiidesyou");
-        System.out.println("konomondokorogamenihairanuka!");
+        System.out.println("飛車さん、角さん。もういいでしょう。");
+        System.out.println("この紋所が目にはいらぬか！");
         Zenhan.doTogame();
     }
 }
