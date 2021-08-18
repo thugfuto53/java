@@ -2,7 +2,7 @@ package comment;
 
 public class Kouhan{
     public static void callDeae(){
-        System.out.println("ええい、こしゃくな。くせものだ！であえい！");
+        System.out.println("えぇい、こしゃくな。くせものだ！であえい！");
     }
     public static void showMondokoro(){
         System.out.println("飛車さん、角さん。もういいでしょう。");

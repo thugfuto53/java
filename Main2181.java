@@ -1,6 +1,6 @@
 public class Main2181{
     public static void introduceOneself(){
-        String name = "shogo";
+        String name = "thugfuto53";
         int age = 19;
         double height = 161.0f;
         char zodiac = 'u';
